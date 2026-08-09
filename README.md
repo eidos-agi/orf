@@ -11,6 +11,7 @@ EMF  — human intent and durable memory   https://github.com/eidos-agi/emf
 ORF  — research / investigation packs    (this repo)
 OPF  — product graph                     https://github.com/eidos-agi/opf
 ODFW — spreadsheet → bronze proof        https://github.com/eidos-agi/odfw
+OPFF — personal finance packs            https://github.com/eidos-agi/opff
 ```
 
 **Read [SPEC.md](SPEC.md).**
@@ -56,6 +57,7 @@ python3 -m orf.validate examples/orf-bad-done-without-go; echo exit=$?
 | [eidos-squiddie](https://github.com/eidos-agi/eidos-squiddie) | Research harness that **writes** ORF packs |
 | [eidos-memory-labs](https://github.com/eidos-agi/eidos-memory-labs) | Studies OKF-family formats (links here) |
 | [okflify](https://github.com/eidos-agi/okflify) | Renders ORF-labeled packs |
+| [opff](https://github.com/eidos-agi/opff) | Sibling OKF profile (personal finance; not research) |
 
 ## History
 
